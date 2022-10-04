@@ -1,0 +1,1 @@
+export { default as getDescription } from "./getDescription.js";

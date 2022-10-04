@@ -1,0 +1,28 @@
+{
+  "name": "@docchi/shinden-description",
+  "version": "1.0.0",
+  "description": "Moduł do pobierania opis ze strony shinden",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docchipl/shinden-description.git"
+  },
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  },
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/docchipl/shinden-description/issues"
+  },
+  "homepage": "https://github.com/docchipl/shinden-description#readme",
+  "keywords": [
+    "anime",
+    "poland",
+    "shinden",
+    "pl",
+    "scraper",
+    "scraping"
+  ],
+  "author": "3xanax",
+  "license": "MIT"
+}

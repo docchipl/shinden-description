@@ -1,0 +1,1 @@
+export { default as findAnime } from "./findAnime.js";
