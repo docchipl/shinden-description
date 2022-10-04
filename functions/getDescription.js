@@ -22,7 +22,7 @@ async function secondRequest(request){
         })
 
     } catch (err) {
-        //console.error(err);
+        console.error("Getting Description: \N", err);
         return ({
             status: 500,
             message: "Something went wrong!"

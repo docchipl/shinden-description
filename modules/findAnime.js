@@ -29,7 +29,7 @@ async function findAnime (anime){
         })
 
     } catch (err) {
-        //console.error(err);
+        console.error("Getting Slug: \N", err);
         return ({
             status: 500,
             message: "Something went wrong!"

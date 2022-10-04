@@ -1,6 +1,6 @@
 {
   "name": "@docchi/shinden-description",
-  "version": "1.0.0",
+  "version": "1.0.0-logs.1",
   "description": "Moduł do pobierania opis ze strony shinden",
   "main": "index.js",
   "repository": {
