@@ -2,7 +2,7 @@
 
 Prosty moduł do pobierania opis ze strony shinden
 
-![Okładka](https://cdn.discordapp.com/attachments/721911008213598238/1026872206585774090/unknown.png)
+![Okładka](https://github.com/docchipl/.github/assets/34755589/9b14bb52-08ba-4a45-992b-fc2e10cf226a)
 
 ## Kontakt
 
@@ -59,7 +59,7 @@ If available
 # Wsparcie
 <b>IMPORTANT</b>: Help me beeing efficient, please! I am developing in my free time for no money. Contribute to the project by posting complete, structured and helpful issues which I can reproduce quickly without asking for missing information.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/docchi)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://buycoffee.to/docchi)
 
 # License
 [MIT](https://github.com/docchipl/cda-checking/blob/main/LICENSE)
